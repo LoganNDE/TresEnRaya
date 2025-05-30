@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe - React Edition
 
-Un juego clásico de **Tres en Raya** (Tic Tac Toe) desarrollado con **React**. Esta versión guarda el progreso en `localStorage`, celebra tus victorias con confeti 🎉 gracias a `js-confetti` y ofrece una experiencia sencilla pero pulida.
+Un juego clásico de **Tres en Raya** (Tic Tac Toe) desarrollado con **React**. Esta versión guarda el progreso en `localStorage`.
 
 ---
 
