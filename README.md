@@ -6,8 +6,9 @@ Un juego clásico de **Tres en Raya** (Tic Tac Toe) desarrollado con **React**. 
 
 ## 🖼️ Vista previa
 
-(![imagen](https://github.com/user-attachments/assets/bee10814-da5b-47e6-b9af-eeafd37ba0aa))
-*Ejemplo de partida con confeti incluido*
+![imagen](https://github.com/user-attachments/assets/bee10814-da5b-47e6-b9af-eeafd37ba0aa)
+<br>
+*Ejemplo de partida*
 
 ---
 
